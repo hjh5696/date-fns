@@ -12,7 +12,7 @@ const timeFormats = {
   full: 'a H시 mm분 ss초 zzzz',
   long: 'a H:mm:ss z',
   medium: 'HH:mm:ss',
-  short: 'HH:mm',
+  short: 'a H:mm',
 }
 
 const dateTimeFormats = {
